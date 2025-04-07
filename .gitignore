@@ -1,0 +1,4 @@
+*.log
+!vip.log
+hiddenFolder/
+new_1
